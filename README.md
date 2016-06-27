@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ng2DynamicLoader
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.8.
@@ -29,3 +30,7 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# ng2-dynamic-loader
+A sample application that demonstrates the use of the DynamicComponentLoader service in Angular 2.
+>>>>>>> 356728167f0c11a91aa18ed17cef423318fa2c25
